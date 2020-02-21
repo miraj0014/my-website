@@ -53,8 +53,9 @@ div {
   }
   .work {
     float: left;
-    width: 620px;
+    width: 32%;
     padding: 5px;
+    margin: 5px;
   }
   
   .row::after {
